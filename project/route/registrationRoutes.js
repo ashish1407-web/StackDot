@@ -14,5 +14,4 @@ router.post('/registers',submitFormRegistration)
 router.get('/registrations',getAllRegistration)
  
 //http://localhost:3000/app/v1/registration/{routePath-final from this file}}
-
 module.exports = router

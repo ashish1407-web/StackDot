@@ -20,8 +20,6 @@ const getStanderdAndSubject=(req,res)=>{
     }))
     res.json({standerdss:responce})
 }
-
-
 const getCollageDetails=(req,res)=>{
     res.json({universities,degree})
 }
